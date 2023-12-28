@@ -11,7 +11,7 @@ connection = pymysql.connect(
     database='users',
 )
 
-# ===== Creating main table in datavase =====
+# ===== Creating main table in database =====
 
 
 def create_table():
